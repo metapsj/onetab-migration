@@ -1,4 +1,9 @@
-.direnv/.keep
-!.direnv/*
+!.direnv/.keep
+.direnv/*
 .env
 
+!data/transforms/.keep
+data/transforms/*
+
+!data/loads/.keep
+data/loads/*
