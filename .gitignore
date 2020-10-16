@@ -1,3 +1,3 @@
-.direnv/
-!.direnv/.keep
+.direnv/.keep
+!.direnv/*
 
