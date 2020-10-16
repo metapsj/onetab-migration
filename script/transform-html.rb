@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-ROOT_PATH = File.expand_path("/Users/patrickjohnson/forty3sixteen/onetab")
+ROOT_PATH = File.expand_path(ENV["ROOT_PATH"])
 EXTRACTS_PATH = File.join(ROOT_PATH, ENV["EXTRACTS_PATH"])
 TRANSFORMS_PATH = File.join(ROOT_PATH, ENV["TRANSFORMS_PATH"])
 LOADS_PATH = File.join(ROOT_PATH, ENV["LOADS_PATH"])
