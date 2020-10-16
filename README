@@ -4,5 +4,5 @@ scripts to extract and transform onetab data for migration to another storage so
 ---
 
 ## TODO
-- ??
+- steps to reproduce extract, transform, and load
 
