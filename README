@@ -1,4 +1,4 @@
-# onetab
+# onetab-migration
 scripts to extract and transform onetab data for migration to another storage solution like sqlite
 
 ---
