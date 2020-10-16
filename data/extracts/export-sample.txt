@@ -1,0 +1,37 @@
+
+<div>
+  <div style="margin-left: 20px;"></div>
+  <div style="word-break: break-all; display: inline-block; padding-left: 55px; padding-top: 8px; position: relative; font-size: 13px;">
+    <img src="chrome://favicon/https://www.sitepoint.com" style="position: absolute; top: 9px; left: 25px; width: 16px; height: 16px; cursor: default;">
+    <a class="clickable" href="https://www.sitepoint.com/implementing-lazy-enumerables-in-ruby/" style="padding-right: 12px; text-decoration: none;">Implementing Lazy Enumerables in Ruby — SitePoint&nbsp;</a>
+    <img src="images/cross.png" style="position: absolute; top: 10px; left: 0px; width: 14px; height: 13px; vertical-align: middle; padding-top: 2px; visibility: hidden; cursor: pointer;">
+  </div>
+</div>
+
+<div>
+  <div style="margin-left: 20px;"></div>
+  <div style="word-break: break-all; display: inline-block; padding-left: 55px; padding-top: 8px; position: relative; font-size: 13px;">
+    <img src="chrome://favicon/http://blog.honeybadger.io" style="position: absolute; top: 9px; left: 25px; width: 16px; height: 16px; cursor: default;">
+    <a class="clickable" href="http://blog.honeybadger.io/a-rubyist-s-guide-to-big-o-notation/" style="padding-right: 12px; text-decoration: none;">A Rubyist's Guide to Big-O Notation&nbsp;</a>
+    <img src="images/cross.png" style="position: absolute; top: 10px; left: 0px; width: 14px; height: 13px; vertical-align: middle; padding-top: 2px; visibility: hidden; cursor: pointer;">
+  </div>
+</div>
+
+<div>
+  <div style="margin-left: 20px;"></div>
+  <div style="word-break: break-all; display: inline-block; padding-left: 55px; padding-top: 8px; position: relative; font-size: 13px;">
+    <img src="chrome://favicon/https://blog.arkency.com" style="position: absolute; top: 9px; left: 25px; width: 16px; height: 16px; cursor: default;">
+    <a class="clickable" href="https://blog.arkency.com/2014/01/ruby-to-enum-for-enumerator/" style="padding-right: 12px; text-decoration: none;">Stop including Enumerable, return Enumerator instead | Arkency Blog&nbsp;</a>
+    <img src="images/cross.png" style="position: absolute; top: 10px; left: 0px; width: 14px; height: 13px; vertical-align: middle; padding-top: 2px; visibility: hidden; cursor: pointer;">
+  </div>
+</div>
+
+</div>
+
+<div style="height: 19px; padding-top: 3px; padding-left: 20px;">
+  <div style="margin-left: 10px;"></div>
+  </div>
+  </div>
+  <div style="padding-top: 30px;"></div>
+</div>
+
