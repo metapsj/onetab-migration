@@ -2,6 +2,9 @@
 .direnv/*
 .env
 
+!data/extracts/.keep
+data/extracts/*
+
 !data/transforms/.keep
 data/transforms/*
 
