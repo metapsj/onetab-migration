@@ -2,5 +2,5 @@
 
 require './lib/transforms/html'
 
-Transforms::Html.new("export.2020-10-15.html").run
+Transforms::ExportHtml.new("export.2020-10-15.html").run
 

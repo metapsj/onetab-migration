@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 module Transforms
-  class Html
+  class ExportHtml
 
     def initialize(extract_file_name)
       @extract_file_name = extract_file_name
