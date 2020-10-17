@@ -9,11 +9,12 @@ module Transforms
 
     def run
       extract_path = File.join(ENV["EXTRACTS_PATH"], @extract_file_name)
+      transform_path = File.join(ENV["TRANSFORMS_PATH"], @extract_file_name)
 
       plucks = read(extract_path)
         .reduce([], &method(:pluck))
 
-      puts plucks.size
+      save(transform_path, plucks)
     end
 
     private
@@ -38,6 +39,11 @@ module Transforms
       element
         .then{ |el| el.gsub(/\sstyle=\".*\;\"/, "") }
         .then{ |el| el.gsub(/\sclass=\".*\"\s/, " ") }
+    end
+
+    def save(transform_path, plucks)
+      File.delete(transform_path) if File.exists?(transform_path)
+      File.write(transform_path, plucks.join("\n"), mode: "a")
     end
 
   end
