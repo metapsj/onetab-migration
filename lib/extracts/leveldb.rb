@@ -11,7 +11,13 @@ module Extracts
 
     private
 
-    def something_special
+    def copy
+    end
+
+    def extract
+    end
+
+    def save
     end
 
   end
