@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'leveldb-ruby'
+gem 'leveldb-native'
 gem 'sqlite3'
 
 group :direnv do
