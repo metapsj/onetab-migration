@@ -11,7 +11,6 @@ data/transforms/*
 !data/loads/.keep
 data/loads/*
 
-download/
 leveldb-native-0.6/
 leveldb-native-0.6.gem
 leveldb-native-0.6.gemspec
