@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require 'leveldb'
+require 'leveldb-native'
 
 module Transforms
   class LevelDB
